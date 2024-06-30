@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siamsi, my name is Abuzar Rezaee
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently working as an AI research engineer.
+- 🌱 I’m currently working as an Cloud AI Engineer at university of Glasgow.
 - 📫 My email address is : abuzarrezaee@gmail.com
 
 <!---
